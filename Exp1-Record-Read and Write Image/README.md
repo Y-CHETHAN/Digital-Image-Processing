@@ -1,14 +1,14 @@
-# Digital-image-processing
+# READ AND WRITE AN IMAGE
 
 ## AIM:
 To write a python program using OpenCV to do the following image manipulations. 
 i) Read and display the image
-ii)Write the image
-iii)Shape of the Image
-iv)Access rows and columns
-v)Cut and paste portion of image
+ii) Write the image
+iii) Shape of the Image
+iv) Access rows and columns
+v) Cut and paste portion of image
 ## SOFTWARE REQUIRED:
-Google Colab or Jupyter Lab
+Anaconda - Python 3.7
 ## ALGORITHM:
 ### Step 1: 
 Choose an image and save it as image.jpg
@@ -29,12 +29,12 @@ End the program and close the output image windows.
 import cv2
 image=cv2.imread("/Downloads/images.jpg",1)
 cv2.imshow("21220230008_monkey",image)
+cv2.waitKey(60)
+cv2.destroyWindow()
 
 # To write the image
 
-computervision.rectangle(image,(0,0),(image.shape[1],image.shape[0]),(255,255,255),20)
-cv2_imshow(image)
-computervision.imwrite("Image with Frame.jpg",image)
+cv2.imwrite("img.jpg",image)
 
 # Find the shape of the Image
 
@@ -44,19 +44,21 @@ image.shape
 
 column=image.shape[1]
 row=image.shape[0]
-image=computervision.imread("/content/image.jpg",1)
-for i in range(230,280):
-  for j in range(120,300):
+image=cv2.imread("image.jpg",1)
+for i in range(95,129):
+  for j in range(95,129):
     image[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
-print("Row:",row)
-print("Column:",column)
-cv2_imshow(image)
+cv2.imshow(image)
+cv2.waitKey(60)
+cv2.destroyWindow()
 
 # To cut and paste portion of image
 
-cut=image[240:280,120:300]
-image[40:80,120:300]=cut
-cv2_imshow(image)
+cut=image[80:120,80:120]
+image[40:80,40:80]=cut
+cv2.imshow(image)
+cv2.waitKey(60)
+cv2.destroyWindow()
 ```
 
 ## OUTPUT:

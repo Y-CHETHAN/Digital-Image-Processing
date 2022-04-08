@@ -46,11 +46,12 @@ cv2.destroyAllWindows()
 
 # ii)Convert HSV to RGB and BGR
 
+hsv=cv2.cvtColor(image,cv2.COLOR_BGR2HSV)
+cv2.imshow("HSV image",hsv)
 HSV_RGB=cv2.cvtColor(image,cv2.COLOR_HSV2RGB)
 cv2.imshow("HSV to RGB image",HSV_RGB)
 HSV_BGR=cv2.cvtColor(image,cv2.COLOR_HSV2BGR)
 cv2.imshow("HSV to BGR image",HSV_BGR)
-cv2.imshow("212220230008",image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
@@ -98,7 +99,7 @@ cv2.destroyAllWindows()
 <img width="662" alt="img1" src="https://user-images.githubusercontent.com/75234991/162476234-ba56823c-26df-47bd-b047-bab33ac3ddd1.png">
 <img width="662" alt="img2" src="https://user-images.githubusercontent.com/75234991/162476250-cad28f92-e920-4f64-a064-8dda408dae51.png">
 ### ii) HSV to RGB and BGR
-<img width="663" alt="img3" src="https://user-images.githubusercontent.com/75234991/162476302-9c46a588-f08c-4113-a69b-51ee4f00ebad.png">
+<img width="663" alt="img3" src="https://user-images.githubusercontent.com/75234991/162479618-e5a065ec-d5e6-432c-9cf9-0bc603264dbe.png">
 ### iii) RGB and BGR to YCrCb
 <img width="661" alt="img4" src="https://user-images.githubusercontent.com/75234991/162476321-298a4480-1e5b-4807-9374-98ee46ebcbc0.png">
 ### iv) Split and merge RGB Image

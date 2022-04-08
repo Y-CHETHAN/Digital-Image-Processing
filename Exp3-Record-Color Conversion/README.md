@@ -24,7 +24,7 @@ Split and Merge RGB Image
 Split and merge HSV Image
 <br>using:<br/>hsv=cv2.cvtColor(image,cv2.COLOR_BGR2HSV)<br/>h, s, v = cv2.split(hsv)<br/>cv2.merge((h,s,v))<br/>
 ## PROGRAM:
-```python
+```
 # Developed By: Y Chethan
 # Register Number: 212220230008
 # i) Convert BGR and RGB to HSV and GRAY

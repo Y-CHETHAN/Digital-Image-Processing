@@ -39,11 +39,9 @@ while(True):
     cv2.imwrite("NewPicture.jpg",frame)
     result = False
 image.release()
-cv2.destroyAllWindows()
 
 ## ii) Display the video
 
-import cv2
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()
@@ -55,7 +53,6 @@ cv2.destroyAllWindows()
 
 ## iii) Display the video by resizing the window
 
-import cv2
 import numpy as np
 cap=cv2.VideoCapture(0)
 while True:
@@ -76,8 +73,6 @@ cv2.destroyAllWindows()
 
 ## iv) Rotate and display the video
 
-import cv2
-import numpy as np
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()

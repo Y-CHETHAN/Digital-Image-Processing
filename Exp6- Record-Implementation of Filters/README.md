@@ -1,14 +1,11 @@
 # Implementation-of-Filters
 ## AIM:
 To implement filters for smoothing and sharpening the images in the spatial domain.
-
 ## SOFTWARE REQUIRED:
 Anaconda - Python 3.7
-
 ## ALGORITHM:
 ### Step 1:
 Import the necessary modules. 
-
 ### Step 2:
 For performing smoothing operation on a image. 
 - Average filter
@@ -29,7 +26,6 @@ gaussian_blur=cv2.GaussianBlur(image2,(33,33),0,0)
 ```python
 median=cv2.medianBlur(image2,13)
 ```
-
 ### Step 3:
 For performing sharpening on a image.
 - Laplacian Kernel
@@ -41,15 +37,12 @@ image3=cv2.filter2D(image2,-1,kernel2)
 ```python
 laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 ```
-
 ### Step 4:
 Display all the images with their respective filters.
-
 ## PROGRAM:
 ```python
 # Developed By   : Y Chethan
 # Register Number: 212220230008
-
 
 import cv2
 import matplotlib.pyplot as plt
@@ -57,9 +50,7 @@ import numpy as np
 image1=cv2.imread("img.jpg")
 image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
 ```
-
 ### 1. Smoothing Filters
-
 i) Using Averaging Filter
 ```Python
 kernel=np.ones((11,11),np.float32)/121
@@ -104,7 +95,6 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-
 iv) Using Median Filter
 ```Python
 median=cv2.medianBlur(image2,13)
@@ -119,7 +109,6 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 ```Python
@@ -150,10 +139,8 @@ plt.title("Laplacian Operator")
 plt.axis("off")
 plt.show()
 ```
-
 ## OUTPUT:
 ### 1. Smoothing Filters
-</br>
 
 i) Using Averaging Filter
 
@@ -172,7 +159,6 @@ iv) Using Median Filter
 ![img4](https://user-images.githubusercontent.com/75234991/165789816-f6f3f804-e2e2-4d9f-a89b-94fe9672658f.png)
 
 ### 2. Sharpening Filters
-</br>
 
 i) Using Laplacian Kernal
 

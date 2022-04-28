@@ -46,9 +46,11 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 Display all the images with their respective filters.
 
 ## PROGRAM:
-```
+```python
 # Developed By   : Y Chethan
 # Register Number: 212220230008
+
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
@@ -161,7 +163,7 @@ ii) Using Weighted Averaging Filter
 
 ![img2](https://user-images.githubusercontent.com/75234991/165789665-4cd57d5e-ac0a-43b6-9024-82825045e7b8.png)
 
-iii) Using Weighted Averaging Filter
+iii) Using Gaussian Filter
 
 ![img3](https://user-images.githubusercontent.com/75234991/165789722-754a949f-3655-4b49-a131-3e8c5f08311f.png)
 

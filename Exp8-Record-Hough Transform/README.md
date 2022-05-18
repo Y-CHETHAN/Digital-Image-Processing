@@ -21,7 +21,6 @@ Draw lines on the image.
 ### Step 5:
 Display the result.
 
-<br><br><br><br><br><br><br>
 ## PROGRAM:
 ```Python
 
@@ -67,7 +66,6 @@ plt.axis("off")
 plt.show()
 
 ```
-<br>
 
 ## OUTPUT:
 
@@ -78,8 +76,6 @@ plt.show()
 ### Canny Edge detector output
 
 ![2](https://user-images.githubusercontent.com/75234991/168993301-b89105f3-d790-4c89-99c6-5f6b963e6cc2.jpg)
-
-<br><br><br><br><br><br>
 
 ### Display the result of Hough transform
 

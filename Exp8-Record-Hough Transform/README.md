@@ -22,7 +22,7 @@ Draw lines on the image.
 Display the result.
 
 <br><br><br><br><br><br><br>
-## Program:
+## PROGRAM:
 ```Python
 
 # Read image and convert it to grayscale image
@@ -68,6 +68,7 @@ plt.show()
 
 ```
 <br>
+
 ## OUTPUT:
 
 ### Input image and grayscale image
@@ -77,6 +78,8 @@ plt.show()
 ### Canny Edge detector output
 
 ![2](https://user-images.githubusercontent.com/75234991/168993301-b89105f3-d790-4c89-99c6-5f6b963e6cc2.jpg)
+
+<br><br><br>
 
 ### Display the result of Hough transform
 

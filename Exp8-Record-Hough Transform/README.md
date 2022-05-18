@@ -68,6 +68,7 @@ plt.show()
 
 ```
 
+<br>
 ## OUTPUT:
 
 ### Input image and grayscale image

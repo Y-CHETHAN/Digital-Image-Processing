@@ -67,8 +67,8 @@ plt.axis("off")
 plt.show()
 
 ```
-
 <br>
+
 ## OUTPUT:
 
 ### Input image and grayscale image

@@ -21,6 +21,7 @@ Draw lines on the image.
 ### Step 5:
 Display the result.
 
+<br><br><br><br><br><br><br>
 ## Program:
 ```Python
 
@@ -66,7 +67,8 @@ plt.axis("off")
 plt.show()
 
 ```
-## Output
+<br>
+## OUTPUT:
 
 ### Input image and grayscale image
 
@@ -80,5 +82,5 @@ plt.show()
 
 ![3](https://user-images.githubusercontent.com/75234991/168993361-1b59d566-aa29-49cb-be06-a5a739fbb2d4.jpg)
 
-## Result:
+## RESULT:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 

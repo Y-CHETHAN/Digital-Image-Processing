@@ -79,7 +79,7 @@ plt.show()
 
 ![2](https://user-images.githubusercontent.com/75234991/168993301-b89105f3-d790-4c89-99c6-5f6b963e6cc2.jpg)
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ### Display the result of Hough transform
 

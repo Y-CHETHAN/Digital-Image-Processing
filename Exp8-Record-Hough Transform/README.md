@@ -21,6 +21,7 @@ Draw lines on the image.
 ### Step 5:
 Display the result.
 
+<br><br><br><br><br><br><br>
 ## PROGRAM:
 ```Python
 
@@ -67,6 +68,7 @@ plt.show()
 
 ```
 
+<br><br>
 ## OUTPUT:
 
 ### Input image and grayscale image

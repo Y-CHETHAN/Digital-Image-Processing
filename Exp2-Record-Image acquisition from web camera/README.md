@@ -27,9 +27,11 @@ End the program and close the output image windows.
 
 ## PROGRAM:
 ```
-### Developed By: Y Chethan
-### Register No: 212220230008
-
+/*
+Developed by : Y Chethan
+Register Number: 212220230008
+*/
+```
 ## i) Write the frame as JPG file
 
 import cv2

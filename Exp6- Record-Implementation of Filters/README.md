@@ -145,7 +145,7 @@ iv) Using Median Filter
 
 ![img4](https://user-images.githubusercontent.com/75234991/165789816-f6f3f804-e2e2-4d9f-a89b-94fe9672658f.png)
 
-<br><br><br><br><br>
+<br><br>
 
 ### 2. Sharpening Filters
 

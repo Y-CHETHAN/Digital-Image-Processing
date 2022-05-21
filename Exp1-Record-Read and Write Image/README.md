@@ -25,7 +25,7 @@ End the program and close the output image windows.
 
 <br><br>
 ## PROGRAM:
-```
+```python
 # Developed By: Y Chethan 
 # Register Number: 212220230008
 # To Read,display the image
@@ -63,7 +63,7 @@ image[40:80,40:80]=cut
 cv2.imshow("cut",image)
 cv2.waitKey(0)
 ```
-
+<br><br>
 ## OUTPUT:
 ### i) Read and display the image
 ![](images/show.png)

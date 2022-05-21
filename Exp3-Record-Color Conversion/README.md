@@ -110,6 +110,8 @@ cv2.destroyAllWindows()
 ### iii) RGB and BGR to YCrCb
 <img width="661" alt="img4" src="https://user-images.githubusercontent.com/75234991/162476321-298a4480-1e5b-4807-9374-98ee46ebcbc0.png">
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### iv) Split and merge RGB Image
 <img width="659" alt="img5" src="https://user-images.githubusercontent.com/75234991/162476371-6eff61ae-866e-41b9-bcd9-fc50464fa9bc.png">
 

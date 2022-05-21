@@ -108,7 +108,7 @@ plt.show()
 
 ```
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## OUTPUT:
 ### i) Image Translation

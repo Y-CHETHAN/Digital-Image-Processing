@@ -21,8 +21,6 @@ Draw lines on the image.
 ### Step 5:
 Display the result.
 
-<br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -82,8 +80,6 @@ plt.show()
 ### Canny Edge detector output
 
 ![2](https://user-images.githubusercontent.com/75234991/169073230-479b5772-805d-463f-afac-97ad89786c3c.png)
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ### Display the result of Hough transform
 

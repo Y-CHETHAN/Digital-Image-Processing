@@ -58,7 +58,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # Convert RGB and BGR to YCrCb
-
 RGB_YCrCb=cv2.cvtColor(image,cv2.COLOR_RGB2YCrCb)
 cv2.imshow("RGB to YCrCb image",RGB_YCrCb)
 BGR_YCrCb=cv2.cvtColor(image,cv2.COLOR_BGR2YCrCb)
@@ -68,7 +67,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # Split and Merge RGB Image
-
 blue = image[:,:,0]
 cv2.imshow("Blue Split",blue)
 green = image[:,:,1]
@@ -82,7 +80,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # Split and merge HSV Image
-
 hsv=cv2.cvtColor(image,cv2.COLOR_BGR2HSV)
 h, s, v = cv2.split(hsv)
 cv2.imshow('h_plane', h)

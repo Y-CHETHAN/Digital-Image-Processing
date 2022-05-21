@@ -32,6 +32,7 @@ Developed by : Y Chethan
 Register Number: 212220230008
 */
 ```
+```python
 ## i) Write the frame as JPG file
 
 import cv2

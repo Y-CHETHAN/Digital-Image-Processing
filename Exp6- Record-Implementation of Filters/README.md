@@ -18,9 +18,6 @@ Perform sharpening on a image.
 - Laplacian Operator
 ### Step 4:
 Display all the images with their respective filters.
-
-<br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -131,8 +128,6 @@ i) Using Averaging Filter
 
 ![img1](https://user-images.githubusercontent.com/75234991/165789631-d2969f61-bfc4-4d5f-9d3e-b5f0e2d738b7.png)
 
-<br><br><br><br><br><br><br>
-
 ii) Using Weighted Averaging Filter
 
 ![img2](https://user-images.githubusercontent.com/75234991/165789665-4cd57d5e-ac0a-43b6-9024-82825045e7b8.png)
@@ -144,8 +139,6 @@ iii) Using Gaussian Filter
 iv) Using Median Filter
 
 ![img4](https://user-images.githubusercontent.com/75234991/165789816-f6f3f804-e2e2-4d9f-a89b-94fe9672658f.png)
-
-<br><br>
 
 ### 2. Sharpening Filters
 

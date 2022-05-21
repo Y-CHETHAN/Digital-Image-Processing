@@ -96,6 +96,7 @@ cv2.destroyAllWindows()
 ![](images/capture.png)
 
 <br>
+
 ### ii) Display the video
 ![](images/videocapture.png)
 

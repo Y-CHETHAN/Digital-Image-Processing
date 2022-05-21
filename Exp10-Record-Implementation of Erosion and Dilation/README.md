@@ -1,4 +1,4 @@
-# Implementation-of-Erosion-and-Dilation
+# IMPLEMENTATION OF EROSION AND DILATION
 ## AIM:
 To implement Erosion and Dilation using Python and OpenCV.
 ## SOFTWARE REQUIRED:
@@ -17,7 +17,12 @@ Erode the image.
 Dilate the image.
 
 ## PROGRAM:
-
+```
+/*
+Developed by   : Y Chethan
+Register Number: 212220230008
+*/
+```
 ``` Python
 # Import the necessary packages
 import cv2

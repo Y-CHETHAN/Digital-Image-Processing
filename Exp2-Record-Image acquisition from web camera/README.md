@@ -33,8 +33,7 @@ Register Number: 212220230008
 */
 ```
 ```python
-## i) Write the frame as JPG file
-
+# Write the frame as JPG file
 import cv2
 image = cv2.VideoCapture(0)
 while(True):
@@ -43,8 +42,7 @@ while(True):
     result = False
 image.release()
 
-## ii) Display the video
-
+# Display the video
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()
@@ -54,8 +52,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-## iii) Display the video by resizing the window
-
+# Display the video by resizing the window
 import numpy as np
 cap=cv2.VideoCapture(0)
 while True:
@@ -74,8 +71,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-## iv) Rotate and display the video
-
+# Rotate and display the video
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()

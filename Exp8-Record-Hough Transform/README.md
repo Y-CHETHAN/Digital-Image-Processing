@@ -1,4 +1,4 @@
-# Edge-Linking-using-Hough-Transform
+# EDGE LINKING USING HOUGH TRANSFORM
 ## AIM:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -22,8 +22,13 @@ Draw lines on the image.
 Display the result.
 
 ## PROGRAM:
+```
+/*
+Developed by   : Y Chethan
+Register Number: 212220230008
+*/
+```
 ```Python
-
 # Read image and convert it to grayscale image
 import numpy as np
 import cv2
@@ -66,7 +71,6 @@ plt.axis("off")
 plt.show()
 
 ```
-
 ## OUTPUT:
 
 ### Input image and grayscale image
@@ -82,4 +86,4 @@ plt.show()
 ![3](https://user-images.githubusercontent.com/75234991/169073275-5fe84886-cbb2-446e-8dd6-b2930b90b457.png)
 
 ## RESULT:
-Thus the program is written with python and OpenCV to detect lines using Hough transform. 
+Thus, the program is written with python and OpenCV to detect lines using Hough transform. 

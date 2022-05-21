@@ -1,4 +1,4 @@
-# Implementation-of-Filters
+# IMPLEMENTATION OF FILTERS
 ## AIM:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 ## SOFTWARE REQUIRED:
@@ -40,10 +40,13 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 ### Step 4:
 Display all the images with their respective filters.
 ## PROGRAM:
+```
+/*
+Developed by   : Y Chethan
+Register Number: 212220230008
+*/
+```
 ```python
-# Developed By   : Y Chethan
-# Register Number: 212220230008
-
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np

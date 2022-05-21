@@ -73,7 +73,7 @@ cv2.waitKey(0)
 ### iii)Shape of the Image
 ![](images/shape.png)
 
-<br><br><br><br>\
+<br><br><br><br>
 ### iv)Access rows and columns
 ![](images/access.png)
 

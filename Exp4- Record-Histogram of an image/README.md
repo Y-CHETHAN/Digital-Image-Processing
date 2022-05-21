@@ -17,6 +17,7 @@ Equalize the grayscale image.
 ### Step 5:
 Display the equalized grayscale image.
 
+<br><br><br><br><br><br>
 ## Program:
 ```
 /*

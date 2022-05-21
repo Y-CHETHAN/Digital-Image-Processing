@@ -63,7 +63,7 @@ image[40:80,40:80]=cut
 cv2.imshow("cut",image)
 cv2.waitKey(0)
 ```
-<br><br>
+<br><br><br>
 ## OUTPUT:
 ### i) Read and display the image
 ![](images/show.png)

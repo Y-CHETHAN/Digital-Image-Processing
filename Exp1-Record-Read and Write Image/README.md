@@ -24,10 +24,14 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 
 ## PROGRAM:
+```
+/*
+Developed by   : Y Chethan 
+Register Number: 212220230008
+*/
+```
 ```python
-# Developed By: Y Chethan 
-# Register Number: 212220230008
-# To Read,display the image
+# To Read and display the image
 
 import cv2
 image=cv2.imread(r"C:\Users\Y Chethan\Downloads\images.jpg",1)

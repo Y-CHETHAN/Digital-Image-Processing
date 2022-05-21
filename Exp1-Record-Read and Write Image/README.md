@@ -32,22 +32,18 @@ Register Number: 212220230008
 ```
 ```python
 # To Read and display the image
-
 import cv2
 image=cv2.imread(r"C:\Users\Y Chethan\Downloads\images.jpg",1)
 cv2.imshow("21220230008_monkey",image)
 cv2.waitKey(0)
 
 # To write the image
-
 cv2.imwrite("img.jpg",image)
 
 # Find the shape of the Image
-
 image.shape
 
 # To access rows and columns
-
 import random
 column=image.shape[1]
 row=image.shape[0]
@@ -59,7 +55,6 @@ cv2.imshow("access rows&cols",image)
 cv2.waitKey(0)
 
 # To cut and paste portion of image
-
 image=cv2.imread(r"C:\Users\Y Chethan\Downloads\images.jpg",1)
 cut=image[80:120,80:120]
 image[40:80,40:80]=cut

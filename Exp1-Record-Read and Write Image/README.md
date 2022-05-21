@@ -23,7 +23,6 @@ Use imwrite(filename, image) to write the image.
 ### Step 5:
 End the program and close the output image windows.
 
-<br><br>
 ## PROGRAM:
 ```python
 # Developed By: Y Chethan 
@@ -63,7 +62,6 @@ image[40:80,40:80]=cut
 cv2.imshow("cut",image)
 cv2.waitKey(0)
 ```
-<br><br><br><br><br>
 ## OUTPUT:
 ### i) Read and display the image
 ![](images/show.png)
@@ -74,7 +72,6 @@ cv2.waitKey(0)
 ### iii)Shape of the Image
 ![](images/shape.png)
 
-<br><br><br><br><br><br>
 ### iv)Access rows and columns
 ![](images/access.png)
 

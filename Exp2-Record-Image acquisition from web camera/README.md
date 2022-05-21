@@ -95,6 +95,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 ![](images/write.png)
+
 ![](images/capture.png)
 ### ii) Display the video
 ![](images/videocapture.png)

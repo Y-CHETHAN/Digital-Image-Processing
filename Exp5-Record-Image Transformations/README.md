@@ -20,9 +20,6 @@ scaled_img=cv2.warpPerspective(input_img,M,(cols,rows))
 Shear the image using<br>
 M_x=np.float32([[1,0.2,0],[0,1,0],[0,0,1]])<br>
 sheared_img_xaxis=cv2.warpPerspective(input_img,M_x,(cols,rows))
-
-<br><br><br>
-
 ### Step 5:
 Reflection of image can be achieved through the code<br>
 M_x=np.float32([[1,0,0],[0,-1,rows],[0,0,1]])<br>
@@ -128,8 +125,6 @@ plt.show()
 
 ### ii) Image Scaling
 ![img2](https://user-images.githubusercontent.com/75234991/165430570-3d03f8d0-31fe-4569-8cc6-39ed21b057b6.png)
-
-<br>
 
 ### iii) Image shearing
 ![img3_1](https://user-images.githubusercontent.com/75234991/165430639-a69b3056-98cf-4bc8-97d6-46a9c693cc6d.png)

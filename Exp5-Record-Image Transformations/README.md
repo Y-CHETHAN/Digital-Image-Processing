@@ -127,7 +127,7 @@ plt.show()
 
 ![img4_2](https://user-images.githubusercontent.com/75234991/165430702-eeac0fff-05ef-4bd4-b3e1-c64827988c20.png)
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ### v) Image Rotation
 ![img5](https://user-images.githubusercontent.com/75234991/165430723-964c9038-8ac9-48fa-bfe0-30e4dbc8a6b1.png)

@@ -23,6 +23,7 @@ Use imwrite(filename, image) to write the image.
 ### Step 5:
 End the program and close the output image windows.
 
+<br><br><br>
 ## PROGRAM:
 ```
 /*

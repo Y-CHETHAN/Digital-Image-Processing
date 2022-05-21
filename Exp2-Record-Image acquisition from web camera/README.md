@@ -99,8 +99,10 @@ cv2.destroyAllWindows()
 ![](images/capture.png)
 ### ii) Display the video
 ![](images/videocapture.png)
+
 ### iii) Display the video by resizing the window
 ![](images/resize.png)
+<br><br><br><br><br><br><br><br><br><br>
 ### iv) Rotate and display the video
 ![](images/rotate.png)
 

@@ -1,4 +1,4 @@
-# Color Conversion
+# COLOR CONVERSION
 ## AIM:
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -27,8 +27,12 @@ Split and merge HSV Image
 
 ## PROGRAM:
 ```
-# Developed By: Y Chethan
-# Register Number: 212220230008
+/*
+Developed by   : Y Chethan
+Register Number: 212220230008
+*/
+```
+```
 # i) Convert BGR and RGB to HSV and GRAY
 
 import cv2

@@ -94,10 +94,12 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+<br><br><br><br><br><br><br><br><br>
 ## OUTPUT:
 
 ### i) BGR and RGB to HSV and GRAY
 <img width="662" alt="img1" src="https://user-images.githubusercontent.com/75234991/162476234-ba56823c-26df-47bd-b047-bab33ac3ddd1.png">
+
 <img width="662" alt="img2" src="https://user-images.githubusercontent.com/75234991/162476250-cad28f92-e920-4f64-a064-8dda408dae51.png">
 
 ### ii) HSV to RGB and BGR
@@ -108,10 +110,12 @@ cv2.destroyAllWindows()
 
 ### iv) Split and merge RGB Image
 <img width="659" alt="img5" src="https://user-images.githubusercontent.com/75234991/162476371-6eff61ae-866e-41b9-bcd9-fc50464fa9bc.png">
+
 <img width="661" alt="img6" src="https://user-images.githubusercontent.com/75234991/162476410-6f1402f0-0356-4794-92aa-3b63ad0920f4.png">
 
 ### v) Split and merge HSV Image
 <img width="663" alt="img7" src="https://user-images.githubusercontent.com/75234991/162476425-463a36eb-d460-4b88-ad32-f55088d41f12.png">
+
 <img width="661" alt="img8" src="https://user-images.githubusercontent.com/75234991/162476435-53dc2c4d-7d10-40b4-a178-3f8cf9520101.png">
 
 ## RESULT:

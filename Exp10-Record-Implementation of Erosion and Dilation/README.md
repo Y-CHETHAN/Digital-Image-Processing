@@ -53,6 +53,7 @@ plt.show()
 ### Display the input Image
 ![download](https://user-images.githubusercontent.com/75234991/169637861-57666945-2a48-4cb1-8b9c-4be68dbfe5f3.png)
 
+<br><br><br><br><br>
 ### Display the Eroded Image
 ![download (1)](https://user-images.githubusercontent.com/75234991/169637864-7c64ff44-e458-4cad-9fcf-6abe3beeea2e.png)
 

@@ -18,6 +18,9 @@ Perform sharpening on a image.
 - Laplacian Operator
 ### Step 4:
 Display all the images with their respective filters.
+
+<br>
+
 ## PROGRAM:
 ```
 /*

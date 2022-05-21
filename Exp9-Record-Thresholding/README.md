@@ -94,7 +94,7 @@ for i in range(0,9):
 
 ![6](https://user-images.githubusercontent.com/75234991/169071979-3dfa13f7-66db-494d-99a7-e03e681b7880.png)
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ### Adaptive Thresholding
 

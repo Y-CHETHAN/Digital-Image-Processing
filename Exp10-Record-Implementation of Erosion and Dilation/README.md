@@ -16,6 +16,8 @@ Erode the image.
 ### Step 5:
 Dilate the image.
 
+<br><br><br><br>
+
 ## PROGRAM:
 ```
 /*

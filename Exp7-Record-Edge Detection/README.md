@@ -100,8 +100,10 @@ plt.imshow(canny)
 plt.title("Canny Edge Detector")
 plt.axis("off")
 plt.show()
-
 ```
+
+<br><br><br><br><br><br><br>
+
 ## OUTPUT:
 ### SOBEL EDGE DETECTOR
 ![1](https://user-images.githubusercontent.com/75234991/168417180-31fa9de4-2c3d-4b05-896e-f5c7a051211c.png)

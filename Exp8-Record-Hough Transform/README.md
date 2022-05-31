@@ -22,6 +22,8 @@ Draw lines on the image.
 ### Step 5:
 Display the result.
 
+<br><br><br><br>
+
 ## PROGRAM:
 ```
 /*

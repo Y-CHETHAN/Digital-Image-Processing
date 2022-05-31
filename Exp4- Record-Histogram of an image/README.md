@@ -17,7 +17,7 @@ Equalize the grayscale image.
 ### Step 5:
 Display the equalized grayscale image.
 
-<br><br><br>
+<br><br><br><br>
 
 ## PROGRAM:
 ```
@@ -68,6 +68,9 @@ plt.axis("off")
 plt.imshow(equ)
 plt.show()
 ```
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## OUTPUT:
 ### Input Grayscale Image and Color Image
 ![output1](https://user-images.githubusercontent.com/75234991/164647799-e2175ac2-186d-44fb-8718-3cff54e56648.jpg)

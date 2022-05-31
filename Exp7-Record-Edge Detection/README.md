@@ -19,7 +19,7 @@ Perform edge detection on a image.
 ### Step 3:
 Display the original images with edge detected images.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```

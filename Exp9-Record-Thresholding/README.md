@@ -27,8 +27,6 @@ Use Otsu's method to segment the image.
 ### Step 6:
 Display the results.
 
-<br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -94,8 +92,6 @@ for i in range(0,9):
 ![5](https://user-images.githubusercontent.com/75234991/169071962-c9353819-eb1b-4491-8e13-13f92f9142d4.png)
 
 ![6](https://user-images.githubusercontent.com/75234991/169071979-3dfa13f7-66db-494d-99a7-e03e681b7880.png)
-
-<br><br><br><br><br><br>
 
 ### Adaptive Thresholding
 

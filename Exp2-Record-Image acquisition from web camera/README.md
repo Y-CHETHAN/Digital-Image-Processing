@@ -24,8 +24,6 @@ Rotate and display the video.
 ### Step 5:
 End the program and close the output image windows.
 
-<br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -72,7 +70,6 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-
 # Rotate and display the video
 cap=cv2.VideoCapture(0)
 while True:
@@ -90,24 +87,17 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-
 ```
 ## OUTPUT:
 
 ### i) Write the frame as JPG image
 ![](images/capture.png)
 
-<br><br>
-
 ### ii) Display the video
 ![](images/videocapture.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ### iii) Display the video by resizing the window
 ![](images/resize.png)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### iv) Rotate and display the video
 ![](images/rotate.png)

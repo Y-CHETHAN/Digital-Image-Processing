@@ -17,8 +17,6 @@ Split and Merge RGB Image.
 ### Step 5:
 Split and merge HSV Image.
 
-<br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -65,7 +63,6 @@ cv2.imshow("212220230008",image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
 # Split and Merge RGB Image
 blue = image[:,:,0]
 cv2.imshow("Blue Split",blue)
@@ -92,8 +89,6 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## OUTPUT:
 
 ### i) BGR and RGB to HSV and GRAY
@@ -101,15 +96,11 @@ cv2.destroyAllWindows()
 
 <img width="662" alt="img2" src="https://user-images.githubusercontent.com/75234991/162476250-cad28f92-e920-4f64-a064-8dda408dae51.png">
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ### ii) HSV to RGB and BGR
 <img width="663" alt="img3" src="https://user-images.githubusercontent.com/75234991/162479618-e5a065ec-d5e6-432c-9cf9-0bc603264dbe.png">
 
 ### iii) RGB and BGR to YCrCb
 <img width="661" alt="img4" src="https://user-images.githubusercontent.com/75234991/162476321-298a4480-1e5b-4807-9374-98ee46ebcbc0.png">
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ### iv) Split and merge RGB Image
 <img width="659" alt="img5" src="https://user-images.githubusercontent.com/75234991/162476371-6eff61ae-866e-41b9-bcd9-fc50464fa9bc.png">

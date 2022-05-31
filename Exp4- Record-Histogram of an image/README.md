@@ -17,8 +17,6 @@ Equalize the grayscale image.
 ### Step 5:
 Display the equalized grayscale image.
 
-<br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -73,12 +71,8 @@ plt.show()
 ### Input Grayscale Image and Color Image
 ![output1](https://user-images.githubusercontent.com/75234991/164647799-e2175ac2-186d-44fb-8718-3cff54e56648.jpg)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output2](https://user-images.githubusercontent.com/75234991/164647826-b4940043-2ff5-49eb-a144-c57298206971.jpg)
-
-<br><br>
 
 ### Histogram Equalization of Grayscale Image
 ![output3](https://user-images.githubusercontent.com/75234991/164647852-9c38eb00-d8fe-43a4-8fbb-ef20f0cfb927.jpg)

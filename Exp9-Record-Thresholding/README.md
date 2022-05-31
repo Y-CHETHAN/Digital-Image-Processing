@@ -27,6 +27,8 @@ Use Otsu's method to segment the image.
 ### Step 6:
 Display the results.
 
+<br><br>
+
 ## PROGRAM:
 ```
 /*

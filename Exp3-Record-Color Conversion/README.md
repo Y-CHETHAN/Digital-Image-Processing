@@ -90,8 +90,10 @@ cv2.imshow("HSV image",hsv)
 cv2.imshow('Merged HSV',mergedhsv)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
 ```
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ## OUTPUT:
 
 ### i) BGR and RGB to HSV and GRAY

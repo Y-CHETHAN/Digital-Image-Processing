@@ -1,4 +1,4 @@
-# IMAGE ACQUISITION FROM WEB CAMERA
+# Image Acquisition from Web Camera
 
 ## AIM:
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -24,7 +24,7 @@ Rotate and display the video.
 ### Step 5:
 End the program and close the output image windows.
 
-<br><br>
+<br><br><br>
 
 ## PROGRAM:
 ```

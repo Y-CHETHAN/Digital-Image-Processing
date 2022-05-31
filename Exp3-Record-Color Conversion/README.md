@@ -65,6 +65,7 @@ cv2.imshow("212220230008",image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+
 # Split and Merge RGB Image
 blue = image[:,:,0]
 cv2.imshow("Blue Split",blue)

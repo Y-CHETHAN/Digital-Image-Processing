@@ -95,6 +95,9 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 ```Python

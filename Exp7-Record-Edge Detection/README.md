@@ -102,7 +102,7 @@ plt.axis("off")
 plt.show()
 ```
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## OUTPUT:
 ### SOBEL EDGE DETECTOR

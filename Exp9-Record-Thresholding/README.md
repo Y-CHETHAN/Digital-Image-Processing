@@ -103,7 +103,7 @@ for i in range(0,9):
 
 ![8](https://user-images.githubusercontent.com/75234991/169072024-5868900b-8453-46be-84a0-81e864e5520d.png)
 
-### Optimum Global Thesholding using Otsu's Method
+### Optimum Global Thresholding using Otsu's Method
 
 ![9](https://user-images.githubusercontent.com/75234991/169072049-0de0b66f-6720-42a4-93fd-32e2169e6211.png)
 

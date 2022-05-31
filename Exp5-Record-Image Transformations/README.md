@@ -1,4 +1,4 @@
-# IMAGE TRANSFORMATION
+# Image Transformation
 ## AIM:
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 

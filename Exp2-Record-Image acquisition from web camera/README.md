@@ -73,7 +73,6 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-
 # Rotate and display the video
 cap=cv2.VideoCapture(0)
 while True:

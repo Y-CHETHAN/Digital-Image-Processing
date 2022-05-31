@@ -1,4 +1,5 @@
-# IMPLEMENTATION OF FILTERS
+# Implementation of Filters
+
 ## AIM:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 ## SOFTWARE REQUIRED:

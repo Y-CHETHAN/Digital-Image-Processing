@@ -1,4 +1,5 @@
-# EDGE DETECTION
+# Edge Detection
+
 ## AIM:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 

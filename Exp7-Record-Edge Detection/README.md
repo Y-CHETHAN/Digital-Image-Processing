@@ -112,7 +112,7 @@ plt.show()
 
 ![3](https://user-images.githubusercontent.com/75234991/168417186-cbd69075-77a2-4e6e-9cab-afaefd69a479.png)
 
-<br><br><br><br><br>
+<br><br><br>
 
 ### LAPLACIAN EDGE DETECTOR
 

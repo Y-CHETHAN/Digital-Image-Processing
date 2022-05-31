@@ -24,6 +24,8 @@ Rotate and display the video.
 ### Step 5:
 End the program and close the output image windows.
 
+<br>
+
 ## PROGRAM:
 ```
 /*

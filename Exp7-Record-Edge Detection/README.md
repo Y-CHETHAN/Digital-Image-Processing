@@ -19,8 +19,6 @@ Perform edge detection on a image.
 ### Step 3:
 Display the original images with edge detected images.
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -102,8 +100,6 @@ plt.axis("off")
 plt.show()
 ```
 
-<br><br><br><br><br><br><br><br><br><br><br>
-
 ## OUTPUT:
 ### SOBEL EDGE DETECTOR
 ![1](https://user-images.githubusercontent.com/75234991/168417180-31fa9de4-2c3d-4b05-896e-f5c7a051211c.png)
@@ -111,8 +107,6 @@ plt.show()
 ![2](https://user-images.githubusercontent.com/75234991/168417182-c154b351-8b89-4038-bad5-a83abdab35a7.png)
 
 ![3](https://user-images.githubusercontent.com/75234991/168417186-cbd69075-77a2-4e6e-9cab-afaefd69a479.png)
-
-<br><br><br>
 
 ### LAPLACIAN EDGE DETECTOR
 

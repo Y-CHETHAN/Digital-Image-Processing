@@ -1,4 +1,4 @@
-# HISTOGRAM AND HISTOGRAM EQUALIZATION OF AN IMAGE
+# Histogram and Histogram Equalization of an image
 ## AIM:
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -77,5 +77,4 @@ plt.show()
 ![output3](https://user-images.githubusercontent.com/75234991/164647852-9c38eb00-d8fe-43a4-8fbb-ef20f0cfb927.jpg)
 
 ## RESULT:
-
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also, histogram equalization is done for the gray scale image using OpenCV.

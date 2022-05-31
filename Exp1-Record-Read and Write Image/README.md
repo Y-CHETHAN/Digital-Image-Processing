@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+# Read and Write Image
 
 ## AIM:
 To write a python program using OpenCV to do the following image manipulations. 

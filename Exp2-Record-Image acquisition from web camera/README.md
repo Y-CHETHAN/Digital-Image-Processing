@@ -14,20 +14,20 @@ Anaconda - Python 3.7
 ## ALGORITHM:
 
 ### Step 1:
-Use image=cv2.VideoCapture(0) to capture the frame using webcamera and use imwrite(filename, image) to write the image.
+Write the frame as JPG.
 ### Step 2:
-To display the video use<br/>cv2.imshow(window_name, frame)<br/>&ensp;&ensp;&ensp;&ensp;&ensp;if cv2.waitKey(1) == ord('q')<br/>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;break
+Display the video.
 ### Step 3:
-To display the video by resizing the window size use cv2.resize(src, dsize, fx, fy, interpolation)
+Display the video by resizing the window.
 ### Step 4:
-To rotate and display the video use cv2.cv2.rotate( src, rotateCode[, dst] )
+Rotate and display the video.
 ### Step 5:
 End the program and close the output image windows.
 
 ## PROGRAM:
 ```
 /*
-Developed by : Y Chethan
+Developed by   : Y Chethan
 Register Number: 212220230008
 */
 ```

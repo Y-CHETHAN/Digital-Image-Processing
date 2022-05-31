@@ -17,6 +17,8 @@ Split and Merge RGB Image.
 ### Step 5:
 Split and merge HSV Image.
 
+<br><br><br><br><br>
+
 ## PROGRAM:
 ```
 /*

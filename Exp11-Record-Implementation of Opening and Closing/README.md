@@ -18,8 +18,6 @@ Use Opening operation.
 ### Step 5:
 Use Closing Operation.
 
-<br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*

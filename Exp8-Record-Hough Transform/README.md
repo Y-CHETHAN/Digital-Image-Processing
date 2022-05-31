@@ -84,6 +84,8 @@ plt.show()
 
 ![2](https://user-images.githubusercontent.com/75234991/169073230-479b5772-805d-463f-afac-97ad89786c3c.png)
 
+<br><br><br><br><br>
+
 ### Display the result of Hough transform
 
 ![3](https://user-images.githubusercontent.com/75234991/169073275-5fe84886-cbb2-446e-8dd6-b2930b90b457.png)

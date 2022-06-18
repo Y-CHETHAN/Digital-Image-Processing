@@ -16,7 +16,9 @@ Define main function to implement Huffman Coding.
 Calculate frequency of occurence.
 ### Step 5:
 Print the characters and it huffman code.
- 
+
+<br><br><br><br><br>
+
 ## PROGRAM:
 ```
 /*

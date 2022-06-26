@@ -21,8 +21,6 @@ Perform sharpening on a image.
 Display all the images with their respective filters.
 
 
-<br>
-
 ## PROGRAM:
 ```
 /*
